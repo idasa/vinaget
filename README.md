@@ -55,3 +55,7 @@ Limit load file per time
 Auto del file per time  
 Max total jobs in this host  
 Max server load (linux)  
+
+## Deploy to Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
